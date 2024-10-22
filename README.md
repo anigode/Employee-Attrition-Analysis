@@ -1,4 +1,4 @@
-### Employee Attrition Prediction Project
+# Employee Attrition Prediction Project
 
 This project focuses on predicting employee attrition using a logistic regression model. The dataset used contains various employee-related information such as age, job role, department, years at the company, monthly income, and more. By training machine learning models, we can predict whether an employee is likely to leave the company (Attrition = Yes) or stay (Attrition = No).
 
